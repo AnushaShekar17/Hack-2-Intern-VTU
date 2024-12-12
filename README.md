@@ -5,7 +5,7 @@
 
 - **Final hack-2-Intern Presentation:** https://github.com/Lakshay1509/SIH_FINAL/blob/main/SIH2024_IDEA_Presentation-1.pdf
 - **Video Demonstration:** https://youtu.be/8I0YpsKdTv8
-- **Source Code:** https://github.com/Lakshay1509/SIH_FINAL
+- **Source Code:** https://github.com/AnushaShekar17/Hack-2-Intern/blob/main/hack-2-intern%20presentation.pdf
 
 
 ## Features
