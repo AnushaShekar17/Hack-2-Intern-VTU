@@ -8,7 +8,6 @@
 
 ## Features
 
-
 - **Monument Information** : Provides details like ticket prices, monument history, and the best time to visit.
 - **Integrated Ticket Booking** : Simplifies ticket purchases with a built-in booking system.
 - **Secure Payment Gateway** : Ensures safe transactions, minimizing the risk of cyber fraud.
